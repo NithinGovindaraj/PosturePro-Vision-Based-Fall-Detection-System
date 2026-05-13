@@ -18,11 +18,15 @@ Offline Connectivity
 
 # software:
 
-## Hardware:
+# Hardware:
 1.Raspberry Pi 4B (2GB+ RAM)
+
 2.USB Webcam
+
 3.USB Microphone
+
 4.Piezoelectric Buzzer (GPIO pin 17)
+
 5.SIM800L GSM Module (UART /dev/ttyS0)
 
 # Circuit Diagram:
