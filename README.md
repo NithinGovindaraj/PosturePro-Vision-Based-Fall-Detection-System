@@ -9,10 +9,10 @@ Posture Pro is a Vision-Based Real-Time Fall Detection Using Pose Estimation wit
 
 
 
-# Objective
--Real-Time Monitoring
--SMS Alert
--Offline Connectivity
+## Objective
+- Real-Time Monitoring
+- SMS Alert
+- Offline Connectivity
 
 ## Features
 - MediaPipe Pose estimation (33 landmarks)
@@ -22,6 +22,7 @@ Posture Pro is a Vision-Based Real-Time Fall Detection Using Pose Estimation wit
 - Offline Vosk speech recognition for alert cancel
 - GSM SIM800L module for SMS emergency alerts (3 contacts)
 - No internet required — fully edge-deployed
+
 # Tech Used:
 # software:
 
