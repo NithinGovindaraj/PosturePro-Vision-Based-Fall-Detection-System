@@ -36,8 +36,14 @@ Offline Connectivity
 
 
 ## Project References:
-[1] Lugaresi et al., MediaPipe: A Framework for Building Perception Pipelines
+[1] Lugaresi et al., MediaPipe: A Framework for Building Perception Pipelines 
+[MediaPipe A Framework for Building Perception Pipelines.pdf](https://github.com/user-attachments/files/27718953/MediaPipe.A.Framework.for.Building.Perception.Pipelines.pdf)
 
-[2] Min et al., Human Fall Detection Using Normalized Shape Aspect Ratio
+
+[2] Min et al., Human Fall Detection Using Normalized Shape Aspect Ratio 
+[Combined curvelets and hidden Markov models.pdf](https://github.com/user-attachments/files/27719049/Combined.curvelets.and.hidden.Markov.models.pdf)
+
 
 [3] Kalman, A New Approach to Linear Filtering and Prediction Problems
+[Kalman Filter Based Elderly Fall Detection with a Triaxial Accelerometer.pdf](https://github.com/user-attachments/files/27719067/Kalman.Filter.Based.Elderly.Fall.Detection.with.a.Triaxial.Accelerometer.pdf)
+
