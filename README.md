@@ -37,5 +37,7 @@ Offline Connectivity
 
 ## Project References:
 [1] Lugaresi et al., MediaPipe: A Framework for Building Perception Pipelines
+
 [2] Min et al., Human Fall Detection Using Normalized Shape Aspect Ratio
+
 [3] Kalman, A New Approach to Linear Filtering and Prediction Problems
