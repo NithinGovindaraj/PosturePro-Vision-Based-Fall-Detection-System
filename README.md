@@ -5,7 +5,7 @@ Posture Pro is a Vision-Based Real-Time Fall Detection Using Pose Estimation wit
 
 
 
-## Objective
+## Objectives
 - Real-Time Monitoring
 - SMS Alert
 - Offline Connectivity
