@@ -1,4 +1,4 @@
-# PosturePro
+# Sem -3;PosturePro
 Posture Pro is a Vision-Based Real-Time Fall Detection Using Pose Estimation with Offline Voice-Activated Alert Cancellation for Edge Deployment
 
 # Overview:
