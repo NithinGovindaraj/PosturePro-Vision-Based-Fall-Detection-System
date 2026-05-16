@@ -66,12 +66,12 @@ notifies emergency contacts via GSM SMS — no wearables, no internet, no cloud,
 <img width="591" height="441" alt="Screenshot 2026-05-13 220002" src="https://github.com/user-attachments/assets/90eb8f39-f836-485c-8d2c-69e67eea7012" />
 
 ## Project References:
-[1] Lugaresi et al., MediaPipe: A Framework for Building Perception Pipelines 
-[MediaPipe A Framework for Building Perception Pipelines.pdf](https://github.com/user-attachments/files/27718953/MediaPipe.A.Framework.for.Building.Perception.Pipelines.pdf)
+[1] Lugaresi et al., - MediaPipe: A Framework for Building Perception Pipelines 
+DOI:10.48550/arXiv.1906.08172
 
 [2] Min et al., Human Fall Detection Using Normalized Shape Aspect Ratio 
-[Combined curvelets and hidden Markov models.pdf](https://github.com/user-attachments/files/27719049/Combined.curvelets.and.hidden.Markov.models.pdf)
+DOI:10.1007/s11042-018-6794-7
 
 [3] Kalman, A New Approach to Linear Filtering and Prediction Problems
-[Kalman Filter Based Elderly Fall Detection with a Triaxial Accelerometer.pdf](https://github.com/user-attachments/files/27719067/Kalman.Filter.Based.Elderly.Fall.Detection.with.a.Triaxial.Accelerometer.pdf)
+DOI:10.1115/1.3662552
 
