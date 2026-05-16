@@ -25,8 +25,8 @@ notifies emergency contacts via GSM SMS — no wearables, no internet, no cloud,
 - 📱 **SMS Alert** — GSM SIM800L notifies 3 emergency contacts instantly
 - 🌐 **Fully Offline** — No internet, no cloud, edge deployed on Raspberry Pi
 
-# Tech Used:
-# Software:
+# Tech Stack:
+## Software:
 * Python 3.9
 * MediaPipe 0.10.14
 * OpenCV 4.8.0
@@ -37,15 +37,15 @@ notifies emergency contacts via GSM SMS — no wearables, no internet, no cloud,
 * PySerial 3.5
 * RPi.GPIO 0.7.0
 
-# Hardware:
-1.Raspberry Pi 4B
-2.USB Webcam
-3.USB Microphone
-4.Active Piezoelectric Buzzer(3.3v) 
-5.SIM800L GSM Module 
-6.Any 2G SIM
-7.10µF 25V Capacitor
-8.1kΩ Resistor -1, 2kΩ Resistor-1
+## Hardware:
+*1.Raspberry Pi 4B
+*2.USB Webcam
+*3.USB Microphone
+*4.Active Piezoelectric Buzzer(3.3v) 
+*5.SIM800L GSM Module 
+*6.Any 2G SIM
+*7.10µF 25V Capacitor
+*8.1kΩ Resistor -1, 2kΩ Resistor-1
 
 # Test Runs: 
 <img width="588" height="437" alt="Screenshot 2026-05-13 215636" src="https://github.com/user-attachments/assets/97fcf26c-df0c-40bc-814f-8e1b86e56619" />
