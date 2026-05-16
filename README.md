@@ -53,7 +53,7 @@ notifies emergency contacts via GSM SMS — no wearables, no internet, no cloud,
 
 >8.1kΩ Resistor -1, 2kΩ Resistor-1
 
->9. 5V-5A adapter - Power Source
+>9.5V-5A adapter - Power Source
 
 # Test Runs: 
 <img width="588" height="437" alt="Screenshot 2026-05-13 215636" src="https://github.com/user-attachments/assets/97fcf26c-df0c-40bc-814f-8e1b86e56619" />
