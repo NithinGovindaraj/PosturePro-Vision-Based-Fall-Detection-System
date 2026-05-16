@@ -29,15 +29,15 @@ notifies emergency contacts via GSM SMS — no wearables, no internet, no cloud,
 - 🌐 **Fully Offline** — No internet, no cloud, edge deployed on Raspberry Pi
   
 ## Software:
-* Python 3.9
-* MediaPipe 0.10.14
-* OpenCV 4.8.0
-* NumPy 1.24.3
-* Vosk 0.3.45
-* SoundDevice 0.4.6
-* WebRTCVAD 2.0.10
-* PySerial 3.5
-* RPi.GPIO 0.7.0
+>* Python 3.9
+>* MediaPipe 0.10.14
+>* OpenCV 4.8.0
+>* NumPy 1.24.3
+>* Vosk 0.3.45
+>* SoundDevice 0.4.6
+>* WebRTCVAD 2.0.10
+>* PySerial 3.5
+>* RPi.GPIO 0.7.0
 
 ## Hardware:
 1.Raspberry Pi 4B
