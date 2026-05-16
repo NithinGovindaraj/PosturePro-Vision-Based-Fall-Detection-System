@@ -16,6 +16,9 @@ notifies emergency contacts via GSM SMS — no wearables, no internet, no cloud,
 - SMS Alert
 - Edge Deployment
 
+- <img width="2000" height="1414" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/194022c4-b700-4ff6-9b3f-b4038e422b7e" />
+
+
 ## ✨ Features
 - 🦴 **Pose Estimation** — MediaPipe with 33 body landmarks
 - 📊 **Keypoint Smoothing** — Kalman filter for stable tracking
