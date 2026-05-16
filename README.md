@@ -1,14 +1,28 @@
-# Sem -3; PosturePro
-Posture Pro is a Vision-Based Real-Time Fall Detection Using Pose Estimation with Offline Voice-Activated Alert Cancellation for Edge Deployment
-
-# Overview:
+# 🧍 PosturePro
+### Real-Time Fall Detection with Offline Voice Alert — Edge Deployed
 
 
+# 📌Overview:
+Falls are a leading cause of injury-related mortality among elderly,
+yet existing wearable sensors suffer from poor user compliance and
+cloud-based vision systems demand constant internet — making them
+impractical in rural and resource-limited environments.
 
-## Objectives
-- Real-Time Monitoring
+PosturePro is a fully offline, camera-based fall detection system
+running entirely on Raspberry Pi 4B. It detects falls using MediaPipe
+pose estimation with Kalman filtering and multi-signal voting, triggers
+a local buzzer alert cancellable by voice command, and instantly
+notifies emergency contacts via GSM SMS — no wearables, no internet,
+no cloud, just plug and protect.
+
+## 🎯 Objectives
+
+- Fall Detection
+- Audio Alert
+- Voice Cancellation
 - SMS Alert
-- Offline Connectivity
+- Edge Deployment
+
 
 ## Features
 - MediaPipe Pose estimation (33 landmarks)
@@ -23,17 +37,24 @@ Posture Pro is a Vision-Based Real-Time Fall Detection Using Pose Estimation wit
 # software:
 
 # Hardware:
-1.Raspberry Pi 4B (2GB+ RAM)
+1.Raspberry Pi 4B
 
 2.USB Webcam
 
 3.USB Microphone
 
-4.Piezoelectric Buzzer (GPIO pin 17)
+4.Active Piezoelectric Buzzer(3.3v) 
 
-5.SIM800L GSM Module (UART /dev/ttyS0)
+5.SIM800L GSM Module 
+
+6.Any 2G SIM
+
+7.10µF 25V Capacitor
+
+8.1kΩ Resistor -1, 2kΩ Resistor-1
 
 # Circuit Diagram:
+<img width="2000" height="1414" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/c5b406b5-005f-4d82-add0-a85b64ac4fdb" />
 
 
 # Test Runs: 
