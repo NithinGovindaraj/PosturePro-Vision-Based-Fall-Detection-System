@@ -37,23 +37,27 @@ notifies emergency contacts via GSM SMS — no wearables, no internet, no cloud,
 >* RPi.GPIO 0.7.0
 
 ## Hardware:
->1.Raspberry Pi 4B
+>1.Raspberry Pi 4B -  2GB+ RAM
 
->2.USB Webcam
+>2.MicroSD Card - 32GB (OS + project files)
 
->3.USB Microphone
+>3.USB Webcam
 
->4.Active Piezoelectric Buzzer(3.3v) 
+>4.MicroSD Card Reader - To flash Raspberry Pi OS
 
->5.SIM800L GSM Module 
+>5.USB Microphone
 
->6.Any 2G SIM
+>6.Active Piezoelectric Buzzer(3.3v) 
 
->7.10µF 25V Capacitor
+>7.SIM800L GSM Module 
 
->8.1kΩ Resistor -1, 2kΩ Resistor-1
+>8.Any 2G SIM
 
->9.5V-5A adapter - Power Source
+>9.10µF 25V Capacitor
+
+>10.1kΩ Resistor -1, 2kΩ Resistor-1
+
+>11.5V-5A adapter - Power Source
 
 # Test Runs: 
 <img width="588" height="437" alt="Screenshot 2026-05-13 215636" src="https://github.com/user-attachments/assets/97fcf26c-df0c-40bc-814f-8e1b86e56619" />
