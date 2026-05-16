@@ -41,9 +41,9 @@ notifies emergency contacts via GSM SMS — no wearables, no internet, no cloud,
 
 >2.MicroSD Card - 32GB (OS + project files)
 
->3.USB Webcam
+>3.MicroSD Card Reader - To flash Raspberry Pi OS
 
->4.MicroSD Card Reader - To flash Raspberry Pi OS
+>4.USB Webcam
 
 >5.USB Microphone
 
