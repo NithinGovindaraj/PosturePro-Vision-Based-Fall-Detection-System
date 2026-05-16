@@ -67,11 +67,11 @@ notifies emergency contacts via GSM SMS — no wearables, no internet, no cloud,
 
 ## Project References:
 [1] Lugaresi et al., - MediaPipe: A Framework for Building Perception Pipelines 
-DOI:10.48550/arXiv.1906.08172
+[DOI](https://doi.org/10.48550/arXiv.1906.08172)
 
 [2] Min et al., Human Fall Detection Using Normalized Shape Aspect Ratio 
-DOI:10.1007/s11042-018-6794-7
+[DOI](https://doi.org/10.1007/s11042-018-6794-7)
 
 [3] Kalman, A New Approach to Linear Filtering and Prediction Problems
-DOI:10.1115/1.3662552
+[DOI](https://doi.org/10.1115/1.3662552)
 
