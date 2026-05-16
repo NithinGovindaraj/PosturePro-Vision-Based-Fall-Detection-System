@@ -1,6 +1,6 @@
 # Installation Guide
 
-## Requirements
+## Requirements 
 - Python 3.9
 - 32GB microSD card (with Raspberry Pi OS installed)
 
