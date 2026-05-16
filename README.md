@@ -26,7 +26,7 @@ notifies emergency contacts via GSM SMS — no wearables, no internet, no cloud,
 - 🌐 **Fully Offline** — No internet, no cloud, edge deployed on Raspberry Pi
 
 # Tech Used:
-# software:
+# Software:
 * Python 3.9
 * MediaPipe 0.10.14
 * OpenCV 4.8.0
@@ -39,19 +39,12 @@ notifies emergency contacts via GSM SMS — no wearables, no internet, no cloud,
 
 # Hardware:
 1.Raspberry Pi 4B
-
 2.USB Webcam
-
 3.USB Microphone
-
 4.Active Piezoelectric Buzzer(3.3v) 
-
 5.SIM800L GSM Module 
-
 6.Any 2G SIM
-
 7.10µF 25V Capacitor
-
 8.1kΩ Resistor -1, 2kΩ Resistor-1
 
 # Test Runs: 
