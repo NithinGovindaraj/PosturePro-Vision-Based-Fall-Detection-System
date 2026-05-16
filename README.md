@@ -3,20 +3,14 @@
 
 
 # 📌Overview:
-Falls are a leading cause of injury-related mortality among elderly,
-yet existing wearable sensors suffer from poor user compliance and
-cloud-based vision systems demand constant internet — making them
-impractical in rural and resource-limited environments.
+Falls are a leading cause of injury-related mortality among elderly, yet existing wearable sensors suffer from poor user compliance and
+cloud-based vision systems demand constant internet — making them impractical in rural and resource-limited environments.
 
-PosturePro is a fully offline, camera-based fall detection system
-running entirely on Raspberry Pi 4B. It detects falls using MediaPipe
-pose estimation with Kalman filtering and multi-signal voting, triggers
-a local buzzer alert cancellable by voice command, and instantly
-notifies emergency contacts via GSM SMS — no wearables, no internet,
-no cloud, just plug and protect.
+PosturePro is a fully offline, camera-based fall detection system running entirely on Raspberry Pi 4B. It detects falls using MediaPipe
+pose estimation with Kalman filtering and multi-signal voting, triggers a local buzzer alert cancellable by voice command, and instantly
+notifies emergency contacts via GSM SMS — no wearables, no internet, no cloud, just plug and protect.
 
 ## 🎯 Objectives
-
 - Fall Detection
 - Audio Alert
 - Voice Cancellation
@@ -24,17 +18,26 @@ no cloud, just plug and protect.
 - Edge Deployment
 
 
-## Features
-- MediaPipe Pose estimation (33 landmarks)
-- Kalman filter for keypoint smoothing
-- Multi-signal voting classifier (torso angle, hip position, SAR, hip joint angle)
-- Periodic beep-silence alert (2s ON / 5s OFF) with voice cancellation window
-- Offline Vosk speech recognition for alert cancel
-- GSM SIM800L module for SMS emergency alerts (3 contacts)
-- No internet required — fully edge-deployed
+## ✨ Features
+- 🦴 **Pose Estimation** — MediaPipe with 33 body landmarks
+- 📊 **Keypoint Smoothing** — Kalman filter for stable tracking
+- 🗳️ **Fall Classifier** — Multi-signal voting (torso angle, hip position, SAR, hip joint angle)
+- 🔔 **Smart Alert** — Periodic beep-silence pattern (2s ON / 5s OFF)
+- 🎙️ **Voice Cancellation** — Offline Vosk speech recognition to cancel false alarms
+- 📱 **SMS Alert** — GSM SIM800L notifies 3 emergency contacts instantly
+- 🌐 **Fully Offline** — No internet, no cloud, edge deployed on Raspberry Pi
 
 # Tech Used:
 # software:
+* Python 3.9
+* MediaPipe 0.10.14
+* OpenCV 4.8.0
+* NumPy 1.24.3
+* Vosk 0.3.45
+* SoundDevice 0.4.6
+* WebRTCVAD 2.0.10
+* PySerial 3.5
+* RPi.GPIO 0.7.0
 
 # Hardware:
 1.Raspberry Pi 4B
