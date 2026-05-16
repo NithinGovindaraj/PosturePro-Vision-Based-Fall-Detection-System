@@ -24,8 +24,7 @@ notifies emergency contacts via GSM SMS — no wearables, no internet, no cloud,
 - 🎙️ **Voice Cancellation** — Offline Vosk speech recognition to cancel false alarms
 - 📱 **SMS Alert** — GSM SIM800L notifies 3 emergency contacts instantly
 - 🌐 **Fully Offline** — No internet, no cloud, edge deployed on Raspberry Pi
-
-#Tech Stack:
+  
 ## Software:
 * Python 3.9
 * MediaPipe 0.10.14
